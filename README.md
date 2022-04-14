@@ -1,2 +1,2 @@
 # DL
-Deep Learning
+Projeto Prático Deep Learning
